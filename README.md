@@ -39,7 +39,7 @@
 5. Add the `theme` to the store using Git repo or as a `*.zip` file. [Learn More](https://shopify.dev/docs/themes/tools/github/getting-started)
 6. Publish the added theme. (You can click `Publish` button.)
 7. Visit `Product Template` in admin panel or visit product page directly for the test product which you added.
-8. [Here]((https://www.loom.com/share/a448ae83b3f847158fb48f9f58e0be2d?sid=1700998d-5d70-4e10-add1-5bff08ad78b1) is a demo video for setup
+8. [Here](https://www.loom.com/share/a448ae83b3f847158fb48f9f58e0be2d?sid=1700998d-5d70-4e10-add1-5bff08ad78b1) is a demo video for setup
 
 ## Notes ##
 * This theme is top of `Element Register` architecture and `Custom Element` architecture at the same time. 
