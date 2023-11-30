@@ -41,6 +41,9 @@
 7. Visit `Product Template` in admin panel or visit product page directly for the test product which you added.
 8. [Here](https://www.loom.com/share/a448ae83b3f847158fb48f9f58e0be2d?sid=1700998d-5d70-4e10-add1-5bff08ad78b1) is a demo video for setup
 
+https://www.loom.com/share/a448ae83b3f847158fb48f9f58e0be2d?sid=1700998d-5d70-4e10-add1-5bff08ad78b1
+
+
 ## Notes ##
 * This theme is top of `Element Register` architecture and `Custom Element` architecture at the same time. 
 * `Product` page controller `./assets/product-controller.js` [link](https://github.com/reimabenson/umg-assessment/blob/main/assets/product-controller.js)
