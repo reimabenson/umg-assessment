@@ -1,0 +1,47 @@
+{
+  "sections": {
+    "9e1c4343-6f29-4371-90e2-771dba098e0f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21688093901108__9e1c4343-6f29-4371-90e2-771dba098e0f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "UMG Coding Challenge",
+            "heading_font_class": "fs-heading-1-base"
+          }
+        },
+        "template--21688093901108__9e1c4343-6f29-4371-90e2-771dba098e0f-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "c36d9c5a-14b7-40e1-966e-34ca875df074": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "link_text": "Visit Product Page",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--21688093901108__9e1c4343-6f29-4371-90e2-771dba098e0f-heading-1",
+        "template--21688093901108__9e1c4343-6f29-4371-90e2-771dba098e0f-text-1",
+        "c36d9c5a-14b7-40e1-966e-34ca875df074"
+      ],
+      "settings": {
+        "alignment": "left_left",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    }
+  },
+  "order": [
+    "9e1c4343-6f29-4371-90e2-771dba098e0f"
+  ]
+}

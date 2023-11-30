@@ -1,0 +1,18 @@
+{
+  "type": "footer",
+  "name": "t:groups.footer_group.name",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "settings": {
+        "enable_locale_selector": true,
+        "enable_country_selector": true,
+        "show_payment_icons": true,
+        "additional_copyright_text": ""
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
