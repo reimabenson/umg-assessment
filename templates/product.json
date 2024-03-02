@@ -55,7 +55,6 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
             "enable_sticky_atc_bar_desktop": false,
             "enable_sticky_atc_bar_mobile": false,
             "divider_width": "none"
@@ -192,9 +191,30 @@
         "enable_gift_card_recipient": true,
         "enable_animation": true
       }
+    },
+    "170940181733426ede": {
+      "type": "apps",
+      "blocks": {
+        "powerful_form_builder_app_block_KeGyi9": {
+          "type": "shopify:\/\/apps\/powerful-form-builder\/blocks\/app-block\/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"xxxx\"><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "powerful_form_builder_app_block_KeGyi9"
+      ],
+      "settings": {
+        "heading": "App section",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "170940181733426ede"
   ]
 }
