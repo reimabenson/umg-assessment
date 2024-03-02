@@ -52,14 +52,6 @@
             "show_labels": true
           }
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "enable_sticky_atc_bar_desktop": false,
-            "enable_sticky_atc_bar_mobile": false,
-            "divider_width": "none"
-          }
-        },
         "product_callouts-1": {
           "type": "product_callouts",
           "settings": {
@@ -166,7 +158,6 @@
         "product_callouts_mini",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
         "product_callouts-1",
         "product_callouts-2",
         "share",
